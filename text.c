@@ -21,4 +21,5 @@ int main(void)
     printf("最大的数字是: %d\n", d);
  
     system("pause");
+    
 }
